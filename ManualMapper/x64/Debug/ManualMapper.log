@@ -1,0 +1,6 @@
+﻿  Mapper.cpp
+d:\projects\hacking\manualmapper\manualmapper\manualmapper\mapper.cpp(1743): warning C4018: '<': signed/unsigned mismatch
+d:\projects\hacking\manualmapper\manualmapper\manualmapper\mapper.cpp(1873): warning C4018: '<': signed/unsigned mismatch
+d:\projects\hacking\manualmapper\manualmapper\manualmapper\mapper.cpp(2132): warning C4244: 'argument': conversion from 'DWORD64' to 'WORD', possible loss of data
+  ManualMapper.vcxproj -> D:\Projects\Hacking\ManualMapper\ManualMapper\x64\Debug\ManualMapper.exe
+  ManualMapper.vcxproj -> D:\Projects\Hacking\ManualMapper\ManualMapper\x64\Debug\ManualMapper.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\projects\hacking\manualmapper\manualmapper\manualmapper\source.cpp(1692): warning C4018: '<': signed/unsigned mismatch
+  ManualMapper.vcxproj -> D:\Projects\Hacking\ManualMapper\ManualMapper\Debug\ManualMapper.exe
+  ManualMapper.vcxproj -> D:\Projects\Hacking\ManualMapper\ManualMapper\Debug\ManualMapper.pdb (Partial PDB)
